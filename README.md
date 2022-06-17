@@ -12,7 +12,7 @@ IPL matches data visualization which tells graphical &amp; statistical story abo
 - Result
 
 
-# 1. Preview of File : https://drive.google.com/file/d/1FSj_aDyBofR1lKCtEptIE_jveOU0ZE31/view?usp=sharing\
+# 1. Preview of File : https://drive.google.com/file/d/1FSj_aDyBofR1lKCtEptIE_jveOU0ZE31/view?usp=sharing
 
 # 2. Thoughts behind this case study : 
   - As we know that when it comes to T20 cricket format, it is the most exiting one of them all, IPL Tournament is a contest one should not miss. As being a fan of team which represent my city, it was go to dataset for pulling exciting insights & information.
